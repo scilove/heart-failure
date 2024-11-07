@@ -1,6 +1,7 @@
 black
 flake8
 ipython
+ipykernel
 isort
 jupyterlab
 loguru
